@@ -7,3 +7,6 @@ Andrew Anastasiades | @andrew-ana
 2. Cloudiness surprisingly isn't impacted by Latitude, I would have thought that it would correlate like temperature
 3. Humidity correlates less than I would have expected.
 
+A Literal heatmap with markers for hotels
+
+![alt text](https://github.com/andrew-ana/python-api-challenge/blob/main/Heatmap%20With%20Hotels.png)
