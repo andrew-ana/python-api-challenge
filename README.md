@@ -8,5 +8,6 @@ Andrew Anastasiades | @andrew-ana
 3. Humidity correlates less than I would have expected.
 
 A Literal heatmap with markers for hotels
+A heatmap with this scope could probably be improved greatly by interpolation. We assume geo-spatial correlation between datapoints, and we know the temperature outside of colored areas is not absolute 0...
 
 ![alt text](https://github.com/andrew-ana/python-api-challenge/blob/main/Heatmap%20With%20Hotels.png)
